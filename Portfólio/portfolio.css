@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(227, 198, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+}
+.sobreMim{
+    display: flex;
+    background-color: #8f00c7;
+    width: 500px;
+    border-radius: 20px;
+  
+
+
+}
+img{
+    border-radius: 20px;
+}
+.texto{
+    margin: 10px;
+    color: rgb(238, 196, 255);
+}
+.curriculo{
+    color: white;
+    background-color: #bf1fff;
+    height: 40px;
+    width: 130px;
+    border-radius: 25px;
+    font-size: medium;
+    box-shadow: 3px 3px 1px rgb(186, 124, 245)d1cfc3;      
+   }
+       
+   .curriculo:hover{
+       background-color: #d15cff; 
+   }
+
+
+button{
+ color: white;
+ background-color: #6a0094;
+ height: 50px;
+ width: 150px;
+ border-radius: 30px;
+ font-size: large;
+ box-shadow: 3px 3px 1px rgb(186, 124, 245)d1cfc3;      
+}
+    
+button:hover{
+    background-color: #8f00c7; 
+}
